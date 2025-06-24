@@ -1,0 +1,17 @@
+  Generating the build script.
+  Compiling the build script.
+  Reading the asset graph.
+  Creating the asset graph.
+  Doing initial build cleanup.
+  Deleting 3 declared outputs which already existed on disk.
+  Updating the asset graph.
+  Building, full build because builders changed.
+  0s drift_dev on 76 inputs; lib/app.dart
+  11s drift_dev on 76 inputs: 1 output; spent 9s analyzing, 2s resolving; lib/data/barn_dao.dart
+  13s drift_dev on 76 inputs: 19 output; spent 10s analyzing, 2s resolving; lib/app.dart
+  13s drift_dev on 76 inputs: 19 skipped, 39 output, 18 no-op; spent 10s analyzing, 2s resolving
+  0s source_gen:combining_builder on 38 inputs; lib/app.dart
+  0s source_gen:combining_builder on 38 inputs: 19 skipped, 3 output, 16 no-op
+  Running the post build.
+  Writing the asset graph.
+  Built with build_runner in 15s; wrote 42 outputs.

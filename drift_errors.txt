@@ -1,0 +1,13 @@
+  Generating the build script.
+  Reading the asset graph.
+  Checking for updates.
+  Updating the asset graph.
+  Building, incremental build.
+  0s drift_dev on 56 inputs; lib/app.dart
+  0s drift_dev on 56 inputs: 1 skipped; lib/data/barn_dao.dart
+  0s drift_dev on 56 inputs: 56 skipped
+  0s source_gen:combining_builder on 28 inputs; lib/app.dart
+  0s source_gen:combining_builder on 28 inputs: 28 skipped
+  Running the post build.
+  Writing the asset graph.
+  Built with build_runner in 2s; wrote 0 outputs.
