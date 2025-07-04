@@ -40,7 +40,8 @@ class FarrierLogApp extends StatelessWidget {
             GlobalMaterialLocalizations.delegate,
             GlobalWidgetsLocalizations.delegate,
             GlobalCupertinoLocalizations.delegate,
-          ],
+            DefaultMaterialLocalizations.delegate, // Add this for fallback
+],
           home: const HomeScreen(),
         ),
       ),

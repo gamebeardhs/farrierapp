@@ -25,3 +25,14 @@ dev_dependencies:
   drift_dev: ^2.17.0
   build_runner: ^2.4.8
   flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    # add assets here if needed, e.g. images/
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto-Bold.ttf
+          weight: 700
